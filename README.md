@@ -5,5 +5,4 @@ Cleanse and organize data from three primary sources within the Social Buzz ecos
 Identify the top five content categories by popularity to drive user engagement.
 Provide actionable insights to facilitate strategic decision-making for the company's IPO preparations.
 Data cleaning and normalization techniques to ensure data integrity.
-Advanced analytics and machine learning algorithms for trend analysis and insights generation.
 Visualization tools for presenting findings and recommendations to stakeholders.
